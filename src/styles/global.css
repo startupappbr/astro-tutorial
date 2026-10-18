@@ -70,11 +70,6 @@ h1 {
         padding: 15px 20px;
     }
 
-    .nav-links a:hover,
-    .nav-links a:focus {
-        background-color: blue;
-    }
-
     .menu {
         display: none;
     }
